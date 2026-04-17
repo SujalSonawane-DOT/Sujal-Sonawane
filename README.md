@@ -30,7 +30,7 @@ A system that detects accidents and sends real-time alerts.
 - Detects sudden impact using sensors
 - Sends emergency SMS alert instantly
 
-👉 [View Project](#) *(https://github.com/SujalSonawane-DOT/Vehicle-accident-alert-system)*
+👉 [View Project](https://github.com/SujalSonawane-DOT/Vehicle-accident-alert-system) 
 
 ---
 
@@ -41,7 +41,7 @@ Smart system to reduce electricity usage using sensors.
 - Automatically controls lights and fans
 - Helps in energy saving
 
-👉 [View Project](#)
+👉 [View Project](https://github.com/SujalSonawane-DOT/Automated-Classroom-Sytem)
 
 ---
 
