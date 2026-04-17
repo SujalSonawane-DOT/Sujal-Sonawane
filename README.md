@@ -30,7 +30,7 @@ A system that detects accidents and sends real-time alerts.
 - Detects sudden impact using sensors
 - Sends emergency SMS alert instantly
 
-👉 [View Project](#) *(Add your repo link)*
+👉 [View Project](#) *(https://github.com/SujalSonawane-DOT/Vehicle-accident-alert-system)*
 
 ---
 
