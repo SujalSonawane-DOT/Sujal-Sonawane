@@ -29,7 +29,7 @@ A system that detects accidents and sends real-time alerts.
 - ESP32 + GSM (SIM800L) + sensors
 - Detects sudden impact using sensors
 - Sends emergency SMS alert instantly
-
+  
 👉 [View Project](https://github.com/SujalSonawane-DOT/Vehicle-accident-alert-system) 
 
 ---
